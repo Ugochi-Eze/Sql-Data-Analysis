@@ -1,0 +1,1 @@
+This is a project on Product Data Analysis using MySQL. In this project, I imported data into MySQL Database, I performed data cleaning and analyzed the product data by answering data questions to uncover insight about the product, and usage by the customers. 
